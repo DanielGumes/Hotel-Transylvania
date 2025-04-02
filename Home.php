@@ -44,8 +44,6 @@ $result = $conexao->query($sql);
             <a href="Funcionarios.php">Funcionarios</a>
             <a href="quartos.php">Quartos</a>
             <a href="Clientes.php">Clientes</a>
-            <a href="frigobar.php">Frigobar</a>
-            <a href="pagamento.php">Pagamento</a>
             
         </nav>
 
